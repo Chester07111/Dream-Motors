@@ -1,0 +1,76 @@
+element.style {
+    background-image: url(https://static.tildacdn.com/tild3534-6165-4439-b036-306537646538/photo.svg);
+    transform-origin: center center;
+}
+#rec799865415 .tn-elem[data-elem-id="1726662865053"] .tn-atom {
+    background-position: 0.000% 0.000%;
+    background-size: 100.000%;
+    background-repeat: no-repeat;
+    border-color: transparent;
+    border-style: solid;
+}
+#allrecords a, #allrecords button, #allrecords .t-radio, #allrecords .t-checkbox, #allrecords .t-img-select {
+    outline: none;
+}
+#allrecords a {
+    color: #ff8562;
+    text-decoration: none;
+}
+.t396 a.tn-atom {
+    text-decoration: none;
+}
+.t396 .tn-atom {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.t-records a {
+    color: #ff8562;
+    text-decoration: none;
+}
+div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, img, b, u, i, center, table, tr, th, td, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+таблица стилей агента пользователя
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.t396__artboard.rendered .tn-elem {
+    visibility: visible;
+}
+.t396__artboard-fixed-no-bg .t396__elem {
+    pointer-events: auto;
+}
+.t396__artboard-fixed-no-bg, .t396__artboard-fixed-innactive, .t396__artboard-fixed-innactive .t396__elem, .t396__artboard-fixed-no-bg.t396__artboard-fixed-innactive .t396__elem {
+    pointer-events: none;
+}
+.t396 {
+    -webkit-text-size-adjust: 100%;
+}
+#allrecords {
+    -webkit-font-smoothing: antialiased;
+    background-color: none;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
